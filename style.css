@@ -27,8 +27,8 @@ body {
 
 #sun{
   position:absolute;
-  top:10px;
-  left:30px;
+  top: 10px;
+  left: 30px;
 }
 
 /* Note the negative left values that hide the clouds offscreen
@@ -38,6 +38,7 @@ body {
   top:60px;
   left: -150px;
   z-index:5;
+    opacity: 1;
 }
 
 #cloud2{
